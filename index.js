@@ -14,6 +14,6 @@ function moveDodgerRight() {
     if (left < 360) {
         dodger.style.left = `${left + 1}px`;
     }
-}
+};
   
     
